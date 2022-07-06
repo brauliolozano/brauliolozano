@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brauliolozano
 - 👀 I’m interested in projects ideas / sustentability
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Javascript, CSS, and HTML5
 - 💞️ I’m looking to collaborate on Project Management 
 - 📫 How to reach me ... linkedin.com/in/brauliolozano
 
